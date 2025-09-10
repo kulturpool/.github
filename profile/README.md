@@ -1,6 +1,4 @@
-# Kulturpool
-
-![St.Anton am Arlberg / Waldbad mit Blick zur Saumspitze (1964). Sammlung Risch-Lau, Vorarlberger Landesbibliothek. Nutzungsrecht: CC BY.](https://cms.kulturpool.at/assets/2c483bb5-0f69-4c27-8002-a67961961c50)
+![St.Anton am Arlberg / Waldbad mit Blick zur Saumspitze (1964). Sammlung Risch-Lau, Vorarlberger Landesbibliothek. Nutzungsrecht: CC BY.](https://cms.kulturpool.at/assets/2c483bb5-0f69-4c27-8002-a67961961c50?width=1500&height=700)
 
 **Kulturpool** is Austria’s central search platform and competence centre for digital cultural heritage.  
 It brings together collections from museums, libraries, archives, and other cultural institutions, making them accessible in one place.
